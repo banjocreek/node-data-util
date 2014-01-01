@@ -1,0 +1,23 @@
+{
+  "name": "data-util",
+  "version": "0.0.0",
+  "description": "Data manipulation and normalization utilities",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Greg Wiley <aztec.rex@jammm.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/banjocreek/node-data-util.git"
+  },
+  "licenses": [
+    {
+      "type": "Apache License, Version 2.0",
+      "url": "http://www.apache.org/licenses/LICENSE-2.0"
+    }
+  ],
+  "dependencies": {
+    "underscore": "~1.5.2"
+  }
+}
