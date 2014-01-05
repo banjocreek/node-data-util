@@ -1,6 +1,6 @@
 {
   "name": "data-util",
-  "version": "0.0.2",
+  "version": "0.0-snap",
   "description": "Data manipulation and normalization utilities",
   "main": "index.js",
   "scripts": {
